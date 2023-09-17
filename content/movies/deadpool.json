@@ -1,0 +1,110 @@
+{
+  "title": "Deadpool",
+  "shortname": "deadpool",
+  "description": "When mercenary Wade Wilson falls ill with terminal lung cancer and is given a last chance at life by a rogue experiment, he undergoes a rogue experiment that leaves him with accelerated healing powers and a quest for revenge",
+  "genre": [
+    "Action",
+    "Comedy"
+  ],
+  "rating": "R",
+  "language": "English",
+  "cast": [
+    {
+      "name": "Ryan Reynolds",
+      "role": "Wade Wilson / Deadpool"
+    },
+    {
+      "name": "Karan Soni",
+      "role": "Dopinder"
+    },
+    {
+      "name": "Ed Skrein",
+      "role": "Ajax"
+    },
+    {
+      "name": "Michael Benyaer",
+      "role": "Warlord"
+    },
+    {
+      "name": "Stefan Kapicic",
+      "role": "Colossus"
+    },
+    {
+      "name": "Brianna Hildebrand",
+      "role": "Negasonic Teenage Warhead"
+    },
+    {
+      "name": "Style Dayne",
+      "role": "Jeremy"
+    },
+    {
+      "name": "T.J. Miller",
+      "role": "Weasel"
+    },
+    {
+      "name": "Morena Baccarin",
+      "role": "Vanessa"
+    },
+    {
+      "name": "Gina Carano",
+      "role": "Angel Dust"
+    },
+    {
+      "name": "Leslie Uggams",
+      "role": "Blind Al"
+    },
+    {
+      "name": "Jed Rees",
+      "role": "Recruiter"
+    },
+    {
+      "name": "Randal Reeder",
+      "role": "Buck"
+    },
+    {
+      "name": "Issac C. Singleton Jr.",
+      "role": "Boothe"
+    }
+  ],
+  "crew": {
+    "director": [
+      "Tim Miller"
+    ],
+    "producer": [
+      "Simon Kinberg",
+      "Ryan Reynolds",
+      "Lauren Shuler Donner"
+    ],
+    "writer": [
+      "Rhett Reese",
+      "Paul Wernick"
+    ]
+  },
+  "distributor": [
+    "20th Century Fox"
+  ],
+  "boxOffice": {
+    "budget": 58000000,
+    "gross": {
+      "us": 363070709,
+      "worldwide": 783112979
+    },
+    "openingWeekend": {
+      "us": 132434639,
+      "worldwide": 300000000
+    }
+  },
+  "release": {
+    "year": 2016,
+    "month": 2,
+    "day": 12
+  },
+  "countryOfOrigin": [
+    "United States"
+  ],
+  "runtime": {
+    "hours": 1,
+    "minutes": 48,
+    "seconds": 0
+  }
+}
