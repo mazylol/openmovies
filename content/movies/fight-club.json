@@ -1,0 +1,65 @@
+{
+  "title": "Fight Club",
+  "shortname": "fight-club",
+  "description": "In this 1999 film directed by David Fincher, a disillusioned office worker forms an underground fight club with a charismatic alter ego, exploring themes of identity and rebellion in a mind-bending narrative.",
+  "genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "rating": "R",
+  "language": "English",
+  "cast": [
+    {
+      "name": "Edward Norton",
+      "role": "Narrator"
+    },
+    {
+      "name": "Brad Pitt",
+      "role": "Tyler Durden"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "role": "Marla Singer"
+    }
+  ],
+  "crew": {
+    "director": [
+      "David Fincher"
+    ],
+    "producer": [
+      "Art Linson",
+      "Ceán Chaffin"
+    ],
+    "writer": [
+      "Jim Uhls"
+    ]
+  },
+  "distributor": [
+    "20th Century Fox"
+  ],
+  "boxOffice": {
+    "budget": 63000000,
+    "gross": {
+      "us": 37030102,
+      "worldwide": 100851705
+    },
+    "openingWeekend": {
+      "us": 11174070,
+      "worldwide": 11200622
+    }
+  },
+  "release": {
+    "year": 1999,
+    "month": 10,
+    "day": 15
+  },
+  "countryOfOrigin": [
+    "United States",
+    "Germany"
+  ],
+  "runtime": {
+    "hours": 2,
+    "minutes": 19,
+    "seconds": 0
+  }
+}

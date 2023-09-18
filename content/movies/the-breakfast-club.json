@@ -1,0 +1,72 @@
+{
+  "title": "The Breakfast Club",
+  "shortname": "the-breakfast-club",
+  "description": "Released in 1985, 'The Breakfast Club' is a coming-of-age comedy-drama film directed by John Hughes. It tells the story of five high school students from different cliques who spend a Saturday in detention together, ultimately forming unexpected connections and friendships.",
+  "genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "rating": "R",
+  "language": "English",
+  "cast": [
+    {
+      "name": "Emilio Estevez",
+      "role": "Andrew Clark"
+    },
+    {
+      "name": "Anthony Michael Hall",
+      "role": "Brian Johnson"
+    },
+    {
+      "name": "Judd Nelson",
+      "role": "John Bender"
+    },
+    {
+      "name": "Molly Ringwald",
+      "role": "Claire Standish"
+    },
+    {
+      "name": "Ally Sheedy",
+      "role": "Allison Reynolds"
+    }
+  ],
+  "crew": {
+    "director": [
+      "John Hughes"
+    ],
+    "producer": [
+      "John Hughes",
+      "Ned Tanen"
+    ],
+    "writer": [
+      "John Hughes"
+    ]
+  },
+  "distributor": [
+    "Universal Pictures"
+  ],
+  "boxOffice": {
+    "budget": 1000000,
+    "gross": {
+      "us": 45836500,
+      "worldwide": 51570000
+    },
+    "openingWeekend": {
+      "us": 509203,
+      "worldwide": 509203
+    }
+  },
+  "release": {
+    "year": 1985,
+    "month": 2,
+    "day": 15
+  },
+  "countryOfOrigin": [
+    "United States"
+  ],
+  "runtime": {
+    "hours": 1,
+    "minutes": 37,
+    "seconds": 0
+  }
+}
